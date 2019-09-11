@@ -1,3 +1,7 @@
+/*-------- Changed color on Mobile background to blue --------*/
+  body {
+    background: blue;
+  }
 
 /* ----------- Tablets larger than 768px wide ----------- */
 @media (min-width: 768px) {
@@ -12,4 +16,5 @@
     background: greenyellow;
   }
 
+}
 }
